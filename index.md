@@ -78,7 +78,7 @@ Mariusz Górski is a software developer with extensive experience in full stack 
 
 ## Projects
 
-- **Pixel Perfekt**: Retro vibe platformer game for Windows Phone and Android platforms using C# and Monogame framework. Game is currently unavailable because was not maintained. Youtube channel of the game: [https://www.youtube.com/@pixelperfekt196](https://www.youtube.com/@pixelperfekt196)
+- **Pixel Perfekt**: Retro vibe platformer game for Windows Phone and Android platforms using C# and Monogame framework. Game is currently unavailable because was not maintained. Youtube channel of the game: [https://play.google.com/store/apps/details?id=com.gorsky.pixelperfekt](https://play.google.com/store/apps/details?id=com.gorsky.pixelperfekt)
 - **Exogui**: Game launcher for [eXoDOS](https://www.retro-exo.com/exodos.html) project for Linux. Forked from [BlueMaxima's launcher](https://github.com/FlashpointProject/launcher) and *hacked* to handle exodos metadata format. Github repository: [https://github.com/margorski/exodos-launcher](https://github.com/margorski/exodos-launcher)
 - **Multiple small games developed during game jams**: As a game and software development enthusiast I participated in multiple game jams and in teams created few games. Some of them are available here: [https://apidya.itch.io/](https://apidya.itch.io/)
 - **Demoscene productions**: As a retrocomputers enthusiast I've created in team few demoscene productions on the Atari VCS and Atari 65 XE platforms. Pouet.net profile with contributions list: [https://www.pouet.net/user.php?who=101920](https://www.pouet.net/user.php?who=101920)
