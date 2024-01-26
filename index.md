@@ -4,12 +4,12 @@ Mariusz Górski is a software developer with extensive experience in full stack 
 
 ## Highlighted skills
 
-- Programming languages: Python, JavaScript, TypeScript, C#, Dart, SQL, Bash
-- Frameworks: NextJS, NestJS, Flask, React, ASP.NET, Flutter, NodeJS
-- Databases: PostgreSQL, MSSQL, SQLite, Firebase firestore
-- CI/CD: Jenkins, Teamcity, Bamboo, Github actions, Azure Devcloud
-- Clouds: AWS, Firebase (Google Cloud)
-- Other: Linux, Docker, Application security, Penetration testing
+- **Programming languages**: Python, JavaScript, TypeScript, C#, Dart, SQL, Bash
+- **Frameworks**: NextJS, NestJS, Flask, React, ASP.NET, Flutter, NodeJS
+- **Databases**: PostgreSQL, MSSQL, SQLite, Firebase firestore
+- **CI/CD**: Jenkins, Teamcity, Bamboo, Github actions, Azure Devcloud
+- **Clouds**: AWS, Firebase (Google Cloud)
+- **Other**: Linux, Docker, Application security, Penetration testing
 
 ## Experience
 
@@ -27,13 +27,13 @@ Mariusz Górski is a software developer with extensive experience in full stack 
 - Performed penetration test campaigns and security knowledge sessions as a security champion, using tools like Owasp Zap and penetration testing, and achieved or shared outcomes or learnings, such as security best practices
 
 - Skills and technologies:
-  - Programming languages: C#, C/C++, Python, Dart, TypeScript, Javascript, HTML, CSS, SQL
-  - Technologies: Flutter, Strapi, NestJS, ReactJS, Redux, Orchard CMS, ASP.NET, Klarna, Docker
-  - Databases: PostgreSQL, MSSql, Redis, SQLite, Firebase firestore
-  - Tools: Github Actions, Jest, Owasp Zap, Figma
-  - Clouds and hosting: AWS, Azure, Firebase (Google Cloud), IIS, Nginx
-  - Hardware and communication: CAN, Linux, Raspberry PI, Bluetooth LE
-  - Other: Penetration testing, Application security
+  - **Programming languages**: C#, C/C++, Python, Dart, TypeScript, Javascript, HTML, CSS, SQL
+  - **Technologies**: Flutter, Strapi, NestJS, ReactJS, Redux, Orchard CMS, ASP.NET, Klarna, Docker
+  - **Databases**: PostgreSQL, MSSql, Redis, SQLite, Firebase firestore
+  - **Tools**: Github Actions, Jest, Owasp Zap, Figma
+  - **Clouds and hosting**: AWS, Azure, Firebase (Google Cloud), IIS, Nginx
+  - **Hardware and communication**: CAN, Linux, Raspberry PI, Bluetooth LE
+  - **Other**: Penetration testing, Application security
 
 ### Full-stack developer at Warsaw Institute of Aviation (Jul 2015 - Jun 2017)
 
@@ -43,7 +43,7 @@ Mariusz Górski is a software developer with extensive experience in full stack 
 - Implemented new features and bug fixes for both the frontend and backend
 - Prepared and maintained the hosting configuration on the Linux VM using the Nginx hosting application
 - Set up and maintained the PostgreSQL database for storing and retrieving the application data
-Technologies used: Angular, Flask, Python, Linux, Nginx, PostgreSQL
+- **Technologies used**: Angular, Flask, Python, Linux, Nginx, PostgreSQL
 
 ### Embedded Software Developer at Warsaw Institute of Aviation (Jan 2014 - Dec 2014)
 
@@ -52,14 +52,14 @@ Technologies used: Angular, Flask, Python, Linux, Nginx, PostgreSQL
 - Wrote test campaigns to verify the functionality, performance, and quality of the software products
 - Prepared documentation to describe the software design, implementation, testing, and maintenance
 - Administered and maintained the Atlassian software toolset (Jira, Confluence, Bitbucket, Bamboo) and virtual machines for hosting various applications, ensuring their availability, security, and performance.
-- Technologies used: C/C++, Python, Linux, Git, JIRA, Confluence, Bitbucket, Bamboo, Jenkins, Nginx
+- **Technologies used**: C/C++, Python, Linux, Git, JIRA, Confluence, Bitbucket, Bamboo, Jenkins, Nginx
 
 ### Embedded Software Developer at Sii (Apr 2012 - Dec 2013)
 
 - Worked as a SIM card applet developer for Gemalto company using Java Card technology and the SIM Application Toolkit
 - Wrote test campaigns for SIM card applets in a .NET environment
 - Customized SIM card profiles and configurations
-- Technologies used: Java Card, SIM Application Toolkit, .NET
+- **Technologies used**: Java Card, SIM Application Toolkit, .NET
 
 ### Embedded Software Developer at Siled (Oct 2010 - March 2012)
 
@@ -67,32 +67,32 @@ Technologies used: Angular, Flask, Python, Linux, Nginx, PostgreSQL
 - Developed intelligent lamp firmware for ARM microcontrollers in C++
 - Developed a quick configuration PC application for intelligent lamps in C# and WPF
 - Performed manual testing of hardware and software
-- Technologies used: C++, C#, WPF, ARM, Wireshark
+- **Technologies used**: C++, C#, WPF, ARM, Wireshark
 
 ## Education
 
 - Master of Science, Engineer in Automatic Control and Robotics, Robotics and Mechatronics Systems, University of Gdańsk, Poland (2005-2010)
-  - Thesis topic: “Three axis CNC mill”
-  - Thesis grade: 5.5/5.5
-  - Graduated with a 4.5/5.5 overall classification of the qualification.
+  - **Thesis topic**: “Three axis CNC mill”
+  - **Thesis grade**: 5.5/5.5
+  - **Graduated** with a 4.5/5.5 overall classification of the qualification.
 
 ## Projects
 
-- **Pixel Perfekt**: Retro vibe platformer game for Windows Phone and Android platforms using C# and Monogame framework. Game is currently unavailable because was not maintained. Youtube channel of the game: https://www.youtube.com/@pixelperfekt196
-- **Exogui**: Game launcher for [eXoDOS](https://www.retro-exo.com/exodos.html) project for Linux. Forked from [BlueMaxima's launcher](https://github.com/FlashpointProject/launcher) and *hacked* to handle exodos metadata format. Github repository: https://github.com/margorski/exodos-launcher
-- **Multiple small games developed during game jams**: As a game and software development enthusiast I participated in multiple game jams and in teams created few games. Some of them are available here: https://apidya.itch.io/.
-- **Demoscene productions**: As a retrocomputers enthusiast I've created in team few demoscene productions on the Atari VCS and Atari 65 XE platforms. Pouet.net profile with contributions list: https://www.pouet.net/user.php?who=101920
+- **Pixel Perfekt**: Retro vibe platformer game for Windows Phone and Android platforms using C# and Monogame framework. Game is currently unavailable because was not maintained. Youtube channel of the game: [https://www.youtube.com/@pixelperfekt196](https://www.youtube.com/@pixelperfekt196)
+- **Exogui**: Game launcher for [eXoDOS](https://www.retro-exo.com/exodos.html) project for Linux. Forked from [BlueMaxima's launcher](https://github.com/FlashpointProject/launcher) and *hacked* to handle exodos metadata format. Github repository: [https://github.com/margorski/exodos-launcher](https://github.com/margorski/exodos-launcher)
+- **Multiple small games developed during game jams**: As a game and software development enthusiast I participated in multiple game jams and in teams created few games. Some of them are available here: [https://apidya.itch.io/](https://apidya.itch.io/)
+- **Demoscene productions**: As a retrocomputers enthusiast I've created in team few demoscene productions on the Atari VCS and Atari 65 XE platforms. Pouet.net profile with contributions list: [https://www.pouet.net/user.php?who=101920](https://www.pouet.net/user.php?who=101920)
 
 ## Languages
 
-- Polish: Native
-- English: Proficient
-- Spanish: Beginner
-- Norwegian: Beginner
+- **Polish**: Native
+- **English**: Proficient
+- **Spanish**: Beginner
+- **Norwegian**: Beginner
   
 ## Contact
 
-- Email: margorski4@gmail.com
-- Phone: +48 794 067 965
-- LinkedIn: https://www.linkedin.com/in/mariusz-gorski/
-- GitHub: https://github.com/margorski
+- **Email**: [margorski4@gmail.com](mailto:margorski4@gmail.com)
+- **Phone**: +48 794 067 965
+- **LinkedIn**: [https://www.linkedin.com/in/mariusz-gorski/](https://www.linkedin.com/in/mariusz-gorski/)
+- **GitHub**: [https://github.com/margorski](https://github.com/margorski)
