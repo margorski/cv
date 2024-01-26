@@ -13,7 +13,7 @@ Mariusz Górski is a software developer with extensive experience in full stack 
 
 ## Experience
 
-### Full-stack developer/Embedded developer/Lead software developer/Security champion at Axbit (Aug 2017 - )
+### Full-stack developer/Embedded developer/Lead software developer at Axbit (Aug 2017 - )
 
 - Developed software solutions for various projects in different sectors, including oil&gas, marine, construction, and web/mobile/embedded platforms.
 - Communicated with clients and gathered requirements, selected technological stack and ensured quality of developed code
@@ -24,7 +24,7 @@ Mariusz Górski is a software developer with extensive experience in full stack 
 - Jest) and planned the development of a custom webshop CMS that offered secure and flexible online payment and high performance and reliability, and configured the hosting on a virtual machine
 - Maintained and improved a legacy web application software written in ASP.NET, Orchard CMS, and ReactJS, fixing bugs, implementing new features, and configuring hosting using IIS
 - Conducted security audit of the application and its infrastructure, including code review, cloud hosting, database, and frontend configuration, using tools like Owasp Zap and penetration testing, and identified and provided security issues and recommendations, such as encryption methods, authorization techniques, and vulnerability testing
-- Performed penetration test campaigns and security knowledge sessions as a security champion, using tools like Owasp Zap and penetration testing, and achieved or shared outcomes or learnings, such as security best practices
+- Performed penetration test campaigns and security knowledge sharing sessions, using tools like Owasp Zap and penetration testing, and achieved or shared outcomes or learnings, such as security best practices
 
 - Skills and technologies:
   - **Programming languages**: C#, C/C++, Python, Dart, TypeScript, Javascript, HTML, CSS, SQL
